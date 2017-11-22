@@ -1,5 +1,8 @@
 # PYDEVSYSTEMS'S Simple Cypher <pydevsystems@gmail.com>
 # THIS SOFTWARE IS NOT COPYRIGHTED
+# <http://github.com/pydevsys/simple-cypher>
+# <http://github.com/pydevsys>
+#
 
 def crypt(s):
     pos, blocks = 0, []
