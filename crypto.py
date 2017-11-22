@@ -1,5 +1,13 @@
-# PYDEVSYSTEMS'S Simple Cypher <pydevsystems@gmail.com>
-# THIS SOFTWARE IS NOT COPYRIGHTED
+# PYDEVSYSTEMS'S Simple Cypher
+# THIS SOFTWARE IS NOT COPYRIGHT
+#
+#   Giving credit's to author is very very cool,
+#   but is not mandatory.
+#
+# <pydevsystems@gmail.com>
+# <http://github.com/pydevsys/simple-cypher>
+# <http://github.com/pydevsys>
+#
 
 def crypt(s):
     pos, blocks = 0, []
